@@ -1,0 +1,434 @@
+{
+ "so101/simple/jepa_tuner_smooth_success": [
+  {
+   "src": "videos/rollouts/so101/simple/jepa_tuner_smooth_success/01_d10.mp4",
+   "d": 10,
+   "b": 0.1516
+  },
+  {
+   "src": "videos/rollouts/so101/simple/jepa_tuner_smooth_success/02_d10.mp4",
+   "d": 10,
+   "b": 0.1663
+  },
+  {
+   "src": "videos/rollouts/so101/simple/jepa_tuner_smooth_success/03_d20.mp4",
+   "d": 20,
+   "b": 0.1397
+  },
+  {
+   "src": "videos/rollouts/so101/simple/jepa_tuner_smooth_success/04_d20.mp4",
+   "d": 20,
+   "b": 0.1698
+  },
+  {
+   "src": "videos/rollouts/so101/simple/jepa_tuner_smooth_success/05_d20.mp4",
+   "d": 20,
+   "b": 0.1744
+  }
+ ],
+ "so101/simple/naive_async_rough_success": [
+  {
+   "src": "videos/rollouts/so101/simple/naive_async_rough_success/01_d10.mp4",
+   "d": 10,
+   "b": 0.5376
+  },
+  {
+   "src": "videos/rollouts/so101/simple/naive_async_rough_success/02_d10.mp4",
+   "d": 10,
+   "b": 0.4977
+  },
+  {
+   "src": "videos/rollouts/so101/simple/naive_async_rough_success/03_d20.mp4",
+   "d": 20,
+   "b": 1.3438
+  },
+  {
+   "src": "videos/rollouts/so101/simple/naive_async_rough_success/04_d20.mp4",
+   "d": 20,
+   "b": 1.052
+  },
+  {
+   "src": "videos/rollouts/so101/simple/naive_async_rough_success/05_d20.mp4",
+   "d": 20,
+   "b": 0.8803
+  }
+ ],
+ "so101/simple/trtc_smooth_failure": [
+  {
+   "src": "videos/rollouts/so101/simple/trtc_smooth_failure/01_d10.mp4",
+   "d": 10,
+   "b": 0.111
+  },
+  {
+   "src": "videos/rollouts/so101/simple/trtc_smooth_failure/02_d10.mp4",
+   "d": 10,
+   "b": 0.12
+  },
+  {
+   "src": "videos/rollouts/so101/simple/trtc_smooth_failure/03_d20.mp4",
+   "d": 20,
+   "b": 0.1205
+  },
+  {
+   "src": "videos/rollouts/so101/simple/trtc_smooth_failure/04_d20.mp4",
+   "d": 20,
+   "b": 0.1306
+  },
+  {
+   "src": "videos/rollouts/so101/simple/trtc_smooth_failure/05_d20.mp4",
+   "d": 20,
+   "b": 0.1337
+  }
+ ],
+ "so101/simple/trtc_smooth_success": [
+  {
+   "src": "videos/rollouts/so101/simple/trtc_smooth_success/01_d10.mp4",
+   "d": 10,
+   "b": 0.1102
+  },
+  {
+   "src": "videos/rollouts/so101/simple/trtc_smooth_success/02_d10.mp4",
+   "d": 10,
+   "b": 0.1111
+  },
+  {
+   "src": "videos/rollouts/so101/simple/trtc_smooth_success/03_d20.mp4",
+   "d": 20,
+   "b": 0.1259
+  },
+  {
+   "src": "videos/rollouts/so101/simple/trtc_smooth_success/04_d20.mp4",
+   "d": 20,
+   "b": 0.1261
+  },
+  {
+   "src": "videos/rollouts/so101/simple/trtc_smooth_success/05_d20.mp4",
+   "d": 20,
+   "b": 0.1295
+  }
+ ],
+ "so101/complex/jepa_tuner_smooth_success": [
+  {
+   "src": "videos/rollouts/so101/complex/jepa_tuner_smooth_success/01_d10.mp4",
+   "d": 10,
+   "b": 0.1431
+  },
+  {
+   "src": "videos/rollouts/so101/complex/jepa_tuner_smooth_success/02_d10.mp4",
+   "d": 10,
+   "b": 0.16
+  },
+  {
+   "src": "videos/rollouts/so101/complex/jepa_tuner_smooth_success/03_d20.mp4",
+   "d": 20,
+   "b": 0.1682
+  },
+  {
+   "src": "videos/rollouts/so101/complex/jepa_tuner_smooth_success/04_d20.mp4",
+   "d": 20,
+   "b": 0.1737
+  },
+  {
+   "src": "videos/rollouts/so101/complex/jepa_tuner_smooth_success/05_d20.mp4",
+   "d": 20,
+   "b": 0.1763
+  }
+ ],
+ "so101/complex/naive_async_rough_success": [
+  {
+   "src": "videos/rollouts/so101/complex/naive_async_rough_success/01_d10.mp4",
+   "d": 10,
+   "b": 0.4806
+  },
+  {
+   "src": "videos/rollouts/so101/complex/naive_async_rough_success/02_d10.mp4",
+   "d": 10,
+   "b": 0.4776
+  },
+  {
+   "src": "videos/rollouts/so101/complex/naive_async_rough_success/03_d20.mp4",
+   "d": 20,
+   "b": 0.853
+  },
+  {
+   "src": "videos/rollouts/so101/complex/naive_async_rough_success/04_d20.mp4",
+   "d": 20,
+   "b": 0.6033
+  },
+  {
+   "src": "videos/rollouts/so101/complex/naive_async_rough_success/05_d20.mp4",
+   "d": 20,
+   "b": 0.5912
+  }
+ ],
+ "so101/complex/trtc_smooth_failure": [
+  {
+   "src": "videos/rollouts/so101/complex/trtc_smooth_failure/01_d10.mp4",
+   "d": 10,
+   "b": 0.1089
+  },
+  {
+   "src": "videos/rollouts/so101/complex/trtc_smooth_failure/02_d10.mp4",
+   "d": 10,
+   "b": 0.114
+  },
+  {
+   "src": "videos/rollouts/so101/complex/trtc_smooth_failure/03_d20.mp4",
+   "d": 20,
+   "b": 0.0947
+  },
+  {
+   "src": "videos/rollouts/so101/complex/trtc_smooth_failure/04_d20.mp4",
+   "d": 20,
+   "b": 0.1117
+  },
+  {
+   "src": "videos/rollouts/so101/complex/trtc_smooth_failure/05_d20.mp4",
+   "d": 20,
+   "b": 0.1118
+  }
+ ],
+ "so101/complex/trtc_smooth_success": [
+  {
+   "src": "videos/rollouts/so101/complex/trtc_smooth_success/01_d10.mp4",
+   "d": 10,
+   "b": 0.118
+  },
+  {
+   "src": "videos/rollouts/so101/complex/trtc_smooth_success/02_d10.mp4",
+   "d": 10,
+   "b": 0.1208
+  },
+  {
+   "src": "videos/rollouts/so101/complex/trtc_smooth_success/03_d20.mp4",
+   "d": 20,
+   "b": 0.1118
+  },
+  {
+   "src": "videos/rollouts/so101/complex/trtc_smooth_success/04_d20.mp4",
+   "d": 20,
+   "b": 0.1174
+  },
+  {
+   "src": "videos/rollouts/so101/complex/trtc_smooth_success/05_d20.mp4",
+   "d": 20,
+   "b": 0.1192
+  }
+ ],
+ "aloha/simple/jepa_tuner_smooth_success": [
+  {
+   "src": "videos/rollouts/aloha/simple/jepa_tuner_smooth_success/01_d15.mp4",
+   "d": 15,
+   "b": 0.1192
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/jepa_tuner_smooth_success/02_d15.mp4",
+   "d": 15,
+   "b": 0.1279
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/jepa_tuner_smooth_success/03_d20.mp4",
+   "d": 20,
+   "b": 0.1275
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/jepa_tuner_smooth_success/04_d20.mp4",
+   "d": 20,
+   "b": 0.1307
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/jepa_tuner_smooth_success/05_d20.mp4",
+   "d": 20,
+   "b": 0.1406
+  }
+ ],
+ "aloha/simple/naive_async_rough_success": [
+  {
+   "src": "videos/rollouts/aloha/simple/naive_async_rough_success/01_d15.mp4",
+   "d": 15,
+   "b": 0.4982
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/naive_async_rough_success/02_d15.mp4",
+   "d": 15,
+   "b": 0.4831
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/naive_async_rough_success/03_d20.mp4",
+   "d": 20,
+   "b": 0.6196
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/naive_async_rough_success/04_d20.mp4",
+   "d": 20,
+   "b": 0.6087
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/naive_async_rough_success/05_d20.mp4",
+   "d": 20,
+   "b": 0.5587
+  }
+ ],
+ "aloha/simple/trtc_smooth_failure": [
+  {
+   "src": "videos/rollouts/aloha/simple/trtc_smooth_failure/01_d15.mp4",
+   "d": 15,
+   "b": 0.0932
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/trtc_smooth_failure/02_d15.mp4",
+   "d": 15,
+   "b": 0.1163
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/trtc_smooth_failure/03_d20.mp4",
+   "d": 20,
+   "b": 0.0934
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/trtc_smooth_failure/04_d20.mp4",
+   "d": 20,
+   "b": 0.1217
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/trtc_smooth_failure/05_d20.mp4",
+   "d": 20,
+   "b": 0.1248
+  }
+ ],
+ "aloha/simple/trtc_smooth_success": [
+  {
+   "src": "videos/rollouts/aloha/simple/trtc_smooth_success/01_d15.mp4",
+   "d": 15,
+   "b": 0.0785
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/trtc_smooth_success/02_d15.mp4",
+   "d": 15,
+   "b": 0.0916
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/trtc_smooth_success/03_d20.mp4",
+   "d": 20,
+   "b": 0.0943
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/trtc_smooth_success/04_d20.mp4",
+   "d": 20,
+   "b": 0.0957
+  },
+  {
+   "src": "videos/rollouts/aloha/simple/trtc_smooth_success/05_d20.mp4",
+   "d": 20,
+   "b": 0.1016
+  }
+ ],
+ "aloha/complex/jepa_tuner_smooth_success": [
+  {
+   "src": "videos/rollouts/aloha/complex/jepa_tuner_smooth_success/01_d15.mp4",
+   "d": 15,
+   "b": 0.2913
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/jepa_tuner_smooth_success/02_d15.mp4",
+   "d": 15,
+   "b": 0.3156
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/jepa_tuner_smooth_success/03_d20.mp4",
+   "d": 20,
+   "b": 0.2825
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/jepa_tuner_smooth_success/04_d20.mp4",
+   "d": 20,
+   "b": 0.372
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/jepa_tuner_smooth_success/05_d20.mp4",
+   "d": 20,
+   "b": 0.3789
+  }
+ ],
+ "aloha/complex/naive_async_rough_success": [
+  {
+   "src": "videos/rollouts/aloha/complex/naive_async_rough_success/01_d15.mp4",
+   "d": 15,
+   "b": 1.1107
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/naive_async_rough_success/02_d15.mp4",
+   "d": 15,
+   "b": 0.9516
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/naive_async_rough_success/03_d20.mp4",
+   "d": 20,
+   "b": 1.2717
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/naive_async_rough_success/04_d20.mp4",
+   "d": 20,
+   "b": 1.1848
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/naive_async_rough_success/05_d20.mp4",
+   "d": 20,
+   "b": 1.1667
+  }
+ ],
+ "aloha/complex/trtc_smooth_failure": [
+  {
+   "src": "videos/rollouts/aloha/complex/trtc_smooth_failure/01_d15.mp4",
+   "d": 15,
+   "b": 0.1374
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/trtc_smooth_failure/02_d15.mp4",
+   "d": 15,
+   "b": 0.1701
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/trtc_smooth_failure/03_d20.mp4",
+   "d": 20,
+   "b": 0.2047
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/trtc_smooth_failure/04_d20.mp4",
+   "d": 20,
+   "b": 0.2049
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/trtc_smooth_failure/05_d20.mp4",
+   "d": 20,
+   "b": 0.4564
+  }
+ ],
+ "aloha/complex/trtc_smooth_success": [
+  {
+   "src": "videos/rollouts/aloha/complex/trtc_smooth_success/01_d15.mp4",
+   "d": 15,
+   "b": 0.1701
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/trtc_smooth_success/02_d15.mp4",
+   "d": 15,
+   "b": 0.2721
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/trtc_smooth_success/03_d20.mp4",
+   "d": 20,
+   "b": 0.1569
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/trtc_smooth_success/04_d20.mp4",
+   "d": 20,
+   "b": 0.1578
+  },
+  {
+   "src": "videos/rollouts/aloha/complex/trtc_smooth_success/05_d20.mp4",
+   "d": 20,
+   "b": 0.2333
+  }
+ ]
+}
